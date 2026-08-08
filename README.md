@@ -1,5 +1,5 @@
-# professional_development
-The repository with the author's credentials and the syllabus of each course.
+# Professional development
+The author's credentials and the syllabus of each course.
 
 | Credential | Institution | Completed | Evidence |
 |---|---|---:|---|
