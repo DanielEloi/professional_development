@@ -11,3 +11,4 @@ The author's credentials and the syllabus of each course.
 | 2.1 Version Control with GIT | Atlassian / Coursera | 30.04.2026 | [Certificate](certificates/2.1.pdf) · [Course outline](course_outlines/21.pdf) |
 | 3.1 Introduction to Data Science in Python | University of Michigan / Coursera | 20.07.2026 | [Certificate](certificates/3.1.pdf) · [Course outline](course_outlines/31.pdf) |
 | 3.2 Applied Plotting, Charting & Data Representation in Python |  University of Michigan / Coursera | 05.08.2026 | [Certificate](certificates/3.2.pdf) · [Course outline](course_outlines/32.pdf) |
+| 4.1 SQL For Data Science |  University of California Davis / Coursera | 25.08.2026 | [Certificate](certificates/41Certificate.pdf) · [Course outline](course_outlines/41Syllabus.pdf) |
