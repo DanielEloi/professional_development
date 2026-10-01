@@ -13,3 +13,4 @@ The author's credentials and the syllabus of each course.
 | 3.2 Applied Plotting, Charting & Data Representation in Python |  University of Michigan / Coursera | 05.08.2026 | [Certificate](certificates/3.2.pdf) · [Course outline](course_outlines/32.pdf) |
 | 4.1 SQL For Data Science |  University of California Davis / Coursera | 25.08.2026 | [Certificate](certificates/41Certificate.pdf) · [Course outline](course_outlines/41Syllabus.pdf) |
 | 5.1 Summary Statistics in Public Health |  Johns Hopkins University / Coursera | 11.09.2026 | [Certificate](certificates/51.pdf) · [Course outline](course_outlines/51Syllabus.pdf) |
+| 5.2 Hypothesis Testing in Public Health |  Johns Hopkins University / Coursera | 01.10.2026 | [Certificate](certificates/52.pdf) · [Course outline](course_outlines/52Syllabus.pdf) |
